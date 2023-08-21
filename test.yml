@@ -1,0 +1,10 @@
+name: Branko
+age: 23
+address: "Calle: Claro Solar"
+active: true
+key:
+  key: value
+  key2: 45
+  key3:
+    key: value
+    key2: true
